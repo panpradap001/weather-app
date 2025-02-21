@@ -19,3 +19,5 @@ A simple weather application built with Flask that allows users to search for cu
 - Flask
 - Requests library
 - OpenWeather API key (you can get it from [OpenWeatherMap](https://openweathermap.org/))
+
+https://weather-app-minipro-105dc2f2eb13.herokuapp.com/
